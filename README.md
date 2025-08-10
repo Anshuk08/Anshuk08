@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuk Baishya</h1>
-<h3 align="center">A 3rd year coding enthusiast</h3>
+<h3 align="center">Data science aspirant</h3>
 
 - 🌱 I’m currently learning **AWS,Django, Typescript**
 
